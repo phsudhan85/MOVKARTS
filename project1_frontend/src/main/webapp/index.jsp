@@ -28,9 +28,9 @@
 </head>
 <body>
 
-<div class="jumbotron">
+
   <div class="container text-center">
-     <li class="active"><a href="home"><h1>Online Movie Store</h1></a></li>     
+     <li class="active"><a href="home"><h1>REDIRECT TO WEBSITE</h1></a></li>     
   <!--   <p>Mission & Values</p> -->
   </div>
 </div>

@@ -55,7 +55,7 @@ hai
 
 <div class="jumbotron">
   <div class="container text-center">
-    <h1>Online Movie Store</h1>      
+    <h1>Online Movie Stores</h1>      
   </div>
 </div>
 
